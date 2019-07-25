@@ -1,7 +1,7 @@
 #!/bin/bash
 # Inshackle v1.0
-# coded by: @linux_choice
-# github.com/thelinuxchoice/inshackle
+# Instagram : @smddarkiller
+# github.com/SMDDarKiller/IG.git
 # If you use any part from this code, give me the credits, please, read the License
 
 
