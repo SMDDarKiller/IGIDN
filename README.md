@@ -1,6 +1,6 @@
 # Inshackle v1.0
-## Author: github.com/SMDDarKilled/IG.git
-## IG: instagram.com/linux_choice
+## Author: github.com/SMDDarKilled/IGIDN.git
+## IG: smddarkiller
 ### Don't copy this code without give me the credits, nerd! Please read the License 
 
 Instagram hacks: Track unfollowers, Increase your followers, Download Stories, etc
@@ -15,8 +15,8 @@ Instagram hacks: Track unfollowers, Increase your followers, Download Stories, e
 
 ### Usage:
 ```
-git clone https://github.com/SMDDarKiller/IG.git
+git clone https://github.com/SMDDarKiller/IGIDN.git
 cd inshackle
-bash inshackle.sh
+bash sdkigidn.sh
 ```
 
